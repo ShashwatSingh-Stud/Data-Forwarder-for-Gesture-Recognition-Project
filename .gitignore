@@ -1,0 +1,18 @@
+Arduino IDE-generated files
+/build/
+/debug/
+
+Arduino IDE-specific files
+*.tmp
+*.elf
+*.bin
+*.hex
+*.lst
+*.map
+*.o
+
+macOS-specific files
+.DS_Store
+
+Windows-specific files
+Thumbs.db
